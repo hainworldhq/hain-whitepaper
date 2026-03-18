@@ -1,41 +1,112 @@
 # HAIN Whitepaper
 
-This repository contains the core narrative, concept notes, and structured documentation for HAIN World.
+A structured documentation repository for the **Hybrid AI Native** framework.
+
+This repository contains the first organized narrative and reference materials for HAIN, including concept definition, framework structure, public entry points, and future whitepaper expansion.
+
+---
 
 ## What is HAIN
 
-HAIN stands for **Hybrid AI Native**.
+**HAIN** stands for **Hybrid AI Native**.
 
-It is a structured way to describe how AI-native systems are evolving across cloud, edge, and agentic environments.
+It is a framework for thinking about AI systems across **cloud**, **edge**, and **agentic** environments through clearer public framing, cleaner architectural language, and structured narrative assets.
 
-## Core layers
+Rather than describing AI systems through a single deployment model or a single execution environment, HAIN treats modern intelligent systems as part of a more connected landscape.
 
-- **HAIN World** — the public-facing identity and entry point
-- **HAINOA** — the open architecture layer
-- **HAINIZE** — the toolkit and developer entry
+---
 
-## Current focus
+## What is HAIN World
 
-The current focus of this repository is to document:
+**HAIN World** is the public-facing identity of the HAIN framework.
 
-- what HAIN World is
-- why Hybrid AI Native matters
-- how the framework is structured
-- where the public entry points are
+It functions as the umbrella layer for introducing the concept through websites, repositories, terminology, and outward-facing narrative materials.
 
-## Repository structure
+In simple terms:
 
-- `00-overview.md` — high-level overview
-- `01-what-is-hain-world.md` — public-facing identity and positioning
-- `02-why-hybrid-ai-native.md` — rationale and context
-- `03-framework-structure.md` — HAIN / HAINOA / HAINIZE structure
-- `04-public-entry-points.md` — domains, GitHub, LinkedIn, and other links
+- **HAIN World** introduces the framework
+- **HAINOA** explains the framework
+- **HAINIZE** points toward practical entry and reusable assets
+
+---
+
+## Core framework structure
+
+### HAIN World
+Public entry point and umbrella identity.
+
+### HAINOA
+Open architecture layer.
+
+### HAINIZE
+Toolkit and developer-oriented entry.
+
+This structure helps separate three different roles that are often mixed together in early-stage frameworks:
+
+- public identity
+- architecture logic
+- practical implementation direction
+
+---
+
+## Repository purpose
+
+This repository serves as the first structured whitepaper layer for HAIN.
+
+Its purpose is to capture:
+
+- concept overview
+- framework positioning
+- architecture structure
+- public entry points
+- future narrative expansion
+
+At the current stage, this repository is not intended to present HAIN as a fully commercialized platform. It is intended to provide a clear and stable public-facing framework narrative.
+
+---
+
+## Current document structure
+
+### Core documents
+- [`00-overview.md`](./00-overview.md) — overall introduction to HAIN
+- [`01-what-is-hain-world.md`](./01-what-is-hain-world.md) — role and identity of HAIN World
+- [`02-why-hybrid-ai-native.md`](./02-why-hybrid-ai-native.md) — why the Hybrid AI Native framing exists
+- [`03-framework-structure.md`](./03-framework-structure.md) — relationship between HAIN World, HAINOA, and HAINIZE
+- [`04-public-entry-points.md`](./04-public-entry-points.md) — websites, repositories, social presence, and contact layer
+
+### Supporting assets
+- `assets/` — future diagrams, exports, and supporting visuals
+
+---
 
 ## Public entry points
 
-- Main site: `https://hainworld.com`
-- Short link: `https://hain.world`
-- Architecture: `https://hainoa.org`
-- GitHub: `https://github.com/hainworldhq`
+- **Main site** — [hainworld.com](https://hainworld.com)
+- **Short link** — [hain.world](https://hain.world)
+- **Architecture site** — [hainoa.org](https://hainoa.org)
+- **GitHub** — [github.com/hainworldhq](https://github.com/hainworldhq)
+- **LinkedIn** — [linkedin.com/company/hainworld](https://linkedin.com/company/hainworld)
+- **Email** — hello@hainworld.com
 
-HAIN World serves as the public-facing identity for the Hybrid AI Native framework.
+---
+
+## Current status
+
+This repository represents an **early structured draft** of the HAIN narrative.
+
+The current focus is on:
+
+- establishing a stable public-facing definition
+- clarifying the framework structure
+- organizing documentation for future expansion
+
+---
+
+## Working summary
+
+**HAIN** is a Hybrid AI Native framework.  
+**HAIN World** is its public-facing identity.  
+**HAINOA** is its open architecture layer.  
+**HAINIZE** is its toolkit and developer-oriented direction.
+
+This repository is the first organized whitepaper base for that system.
