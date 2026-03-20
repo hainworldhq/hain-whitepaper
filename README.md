@@ -2,7 +2,7 @@
 
 A structured documentation repository for the **Hybrid AI Native** framework.
 
-This repository contains the first organized narrative and reference materials for HAIN, including concept definition, framework structure, public entry points, and future whitepaper expansion.
+This repository contains the first organized narrative and reference materials for HAIN, including concept definition, framework structure, public entry points, working principles, system landscape interpretation, and future whitepaper expansion.
 
 ---
 
@@ -59,9 +59,27 @@ Its purpose is to capture:
 - framework positioning
 - architecture structure
 - public entry points
+- working principles
+- system landscape interpretation
 - future narrative expansion
 
 At the current stage, this repository is not intended to present HAIN as a fully commercialized platform. It is intended to provide a clear and stable public-facing framework narrative.
+
+---
+
+## Reading path
+
+If you are new to HAIN, read in this order:
+
+1. [`00-overview.md`](./00-overview.md)
+2. [`01-what-is-hain-world.md`](./01-what-is-hain-world.md)
+3. [`02-why-hybrid-ai-native.md`](./02-why-hybrid-ai-native.md)
+4. [`03-framework-structure.md`](./03-framework-structure.md)
+5. [`04-public-entry-points.md`](./04-public-entry-points.md)
+6. [`05-working-principles.md`](./05-working-principles.md)
+7. [`06-system-landscape.md`](./06-system-landscape.md)
+
+This sequence moves from high-level identity and concept framing into structure, public surfaces, principles, and finally the broader environment that the framework is meant to describe.
 
 ---
 
@@ -73,9 +91,34 @@ At the current stage, this repository is not intended to present HAIN as a fully
 - [`02-why-hybrid-ai-native.md`](./02-why-hybrid-ai-native.md) — why the Hybrid AI Native framing exists
 - [`03-framework-structure.md`](./03-framework-structure.md) — relationship between HAIN World, HAINOA, and HAINIZE
 - [`04-public-entry-points.md`](./04-public-entry-points.md) — websites, repositories, social presence, and contact layer
+- [`05-working-principles.md`](./05-working-principles.md) — the internal interpretive rules of the framework
+- [`06-system-landscape.md`](./06-system-landscape.md) — cloud, edge, and agentic systems as one connected environment
 
 ### Supporting assets
 - `assets/` — future diagrams, exports, and supporting visuals
+
+---
+
+## Relationship to the glossary
+
+The whitepaper and glossary serve different but connected roles.
+
+The whitepaper explains the framework in sequence.  
+The glossary keeps its vocabulary stable.
+
+Use the HAIN Glossary alongside this repository to clarify terms such as:
+
+- HAIN
+- Hybrid AI Native
+- HAIN World
+- HAINOA
+- HAINIZE
+- public-facing identity
+- architecture core
+- execution environment
+- system landscape
+- structural clarity
+- framework narrative
 
 ---
 
@@ -91,14 +134,16 @@ At the current stage, this repository is not intended to present HAIN as a fully
 ---
 
 ## Current status
-
-This repository represents an **early structured draft** of the HAIN narrative.
+Version: v0.1
+This repository now represents an **early structured v0.1 draft** of the HAIN narrative.
 
 The current focus is on:
 
 - establishing a stable public-facing definition
 - clarifying the framework structure
-- organizing documentation for future expansion
+- organizing terminology and interpretation
+- defining working principles
+- describing the system landscape HAIN is intended to explain
 
 ---
 
@@ -109,4 +154,4 @@ The current focus is on:
 **HAINOA** is its open architecture layer.  
 **HAINIZE** is its toolkit and developer-oriented direction.
 
-This repository is the first organized whitepaper base for that system.
+This repository is the first organized whitepaper base for that system, now extended with working principles and system landscape interpretation.
