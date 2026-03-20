@@ -2,7 +2,7 @@
 
 ## Overview
 
-The HAIN framework uses the idea of a system landscape to describe the broader environment in which modern AI-native systems operate.
+The HAIN framework uses the idea of a [system landscape](https://github.com/hainworldhq/hain-glossary/blob/main/terms/system-landscape.md) to describe the broader environment in which modern AI-native systems operate.
 
 This idea matters because cloud infrastructure, edge execution, and agentic workflows should not be treated as isolated categories. They increasingly form one connected landscape of execution, coordination, and interaction.
 
@@ -22,15 +22,15 @@ A system landscape perspective is useful because it encourages a broader view. I
 - how its intelligence is distributed
 - how different layers coordinate
 - what kinds of constraints shape its architecture
-- how multiple execution contexts relate to one another
+- how multiple [execution environments](https://github.com/hainworldhq/hain-glossary/blob/main/terms/execution-environment.md) relate to one another
 
 Within HAIN, this broader perspective is necessary because the framework is trying to describe a world in which intelligence is increasingly layered, distributed, and context-sensitive.
 
 ## Cloud as coordination layer
 
-The first major dimension in the HAIN system landscape is cloud.
+The first major dimension in the HAIN system landscape is [cloud](https://github.com/hainworldhq/hain-glossary/blob/main/terms/cloud.md).
 
-Cloud remains essential because it provides centralized scale, shared infrastructure, common model access, integration surfaces, and orchestration capabilities that many intelligent systems still depend on.
+Cloud remains essential because it provides centralized scale, shared infrastructure, common model access, integration surfaces, and [orchestration](https://github.com/hainworldhq/hain-glossary/blob/main/terms/orchestration.md) capabilities that many intelligent systems still depend on.
 
 In practical terms, the cloud often acts as the coordination layer of the larger system. It is where shared intelligence, centralized control logic, large-scale data operations, and broader integration patterns are most naturally organized.
 
@@ -40,11 +40,11 @@ In HAIN, cloud is best understood as a major system layer rather than the whole 
 
 ## Edge as locality layer
 
-The second major dimension is edge.
+The second major dimension is [edge](https://github.com/hainworldhq/hain-glossary/blob/main/terms/edge.md).
 
 Edge matters because execution increasingly needs to happen closer to the point of use. This may be driven by latency, privacy, resilience, bandwidth constraints, cost patterns, or the practical realities of a given environment.
 
-Edge therefore represents more than a deployment convenience. It expresses the importance of locality in modern system design.
+Edge therefore represents more than a deployment convenience. It expresses the importance of [locality](https://github.com/hainworldhq/hain-glossary/blob/main/terms/locality.md) in modern system design.
 
 A system landscape view makes this easier to see. It recognizes that not all useful intelligence should live in the same place, and that architectural choices are often shaped by where execution becomes most effective or most realistic.
 
@@ -52,9 +52,9 @@ In HAIN, edge is not a secondary technical variation. It is a core part of the l
 
 ## Agentic systems as process layer
 
-The third major dimension is agentic systems.
+The third major dimension is [agentic systems](https://github.com/hainworldhq/hain-glossary/blob/main/terms/agentic-systems.md).
 
-This dimension matters because intelligent software is no longer limited to direct response patterns. Increasingly, systems are expected to work through tools, workflows, memory, context, delegation, and multi-step processes.
+This dimension matters because intelligent software is no longer limited to direct response patterns. Increasingly, systems are expected to work through tools, [agentic workflows](https://github.com/hainworldhq/hain-glossary/blob/main/terms/agentic-workflow.md), memory, context, delegation, and multi-step processes.
 
 This introduces a new process layer into the landscape.
 
