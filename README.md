@@ -135,6 +135,7 @@ Use the HAIN Glossary alongside this repository to clarify terms such as:
 
 ## Current status
 Version: v0.1
+
 This repository now represents an **early structured v0.1 draft** of the HAIN narrative.
 
 The current focus is on:
