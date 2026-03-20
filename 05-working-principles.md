@@ -77,7 +77,7 @@ A framework is not only built out of diagrams, layers, and system roles. It is a
 
 In HAIN, terminology is not secondary. The glossary, the whitepaper, the websites, and the repository structure are all part of the same explanatory system.
 
-This is why the framework gives attention to terms such as [public-facing identity](https://github.com/hainworldhq/hain-glossary/blob/main/terms/public-facing-identity.md), [umbrella identity](https://github.com/hainworldhq/hain-glossary/blob/main/terms/umbrella-identity.md), architecture core, [toolkit direction](https://github.com/hainworldhq/hain-glossary/blob/main/terms/toolkit-direction.md), execution environment, and [system landscape](https://github.com/hainworldhq/hain-glossary/blob/main/terms/system-landscape.md). These are not abstract language preferences. They are part of the infrastructure of understanding.
+This is why the framework gives attention to terms such as [public-facing identity](https://github.com/hainworldhq/hain-glossary/blob/main/terms/public-facing-identity.md), [umbrella identity](https://github.com/hainworldhq/hain-glossary/blob/main/terms/umbrella-identity.md), [architecture core](https://github.com/hainworldhq/hain-glossary/blob/main/terms/architecture-core.md), [toolkit direction](https://github.com/hainworldhq/hain-glossary/blob/main/terms/toolkit-direction.md), [execution environment](https://github.com/hainworldhq/hain-glossary/blob/main/terms/execution-environment.md), and [system landscape](https://github.com/hainworldhq/hain-glossary/blob/main/terms/system-landscape.md). These are not abstract language preferences. They are part of the infrastructure of understanding.
 
 If the language becomes inconsistent, the framework will eventually become inconsistent as well.
 

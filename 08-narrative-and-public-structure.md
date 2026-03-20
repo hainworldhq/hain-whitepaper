@@ -6,7 +6,7 @@ A framework does not become public merely because it has a website, a repository
 
 It becomes public when its structure can be understood by someone who did not build it.
 
-This is why narrative and public structure matter within HAIN. The framework is not only an internal architecture idea. It is also a public-facing system of explanation. If that explanation is inconsistent, overly technical, or structurally blurred, the framework may still exist internally, but it will not exist clearly in public.
+This is why [framework narrative](https://github.com/hainworldhq/hain-glossary/blob/main/terms/framework-narrative.md) and public structure matter within HAIN. The framework is not only an internal architecture idea. It is also a public-facing system of explanation. If that explanation is inconsistent, overly technical, or structurally blurred, the framework may still exist internally, but it will not exist clearly in public.
 
 Within HAIN, narrative and public structure are not cosmetic layers added after the fact. They are part of the framework’s explanatory infrastructure.
 
@@ -52,9 +52,9 @@ That makes narrative and public structure especially important, because the fram
 
 ## The role of HAIN World
 
-Within the HAIN system, HAIN World is the primary public-facing identity.
+Within the HAIN system, HAIN World is the primary [public-facing identity](https://github.com/hainworldhq/hain-glossary/blob/main/terms/public-facing-identity.md).
 
-Its role is not to hold every detail of the framework. Its role is to function as the public entry point and umbrella identity. It provides the visible surface through which the broader framework can be introduced without forcing external audiences to begin at the architecture layer.
+Its role is not to hold every detail of the framework. Its role is to function as the [public entry point](https://github.com/hainworldhq/hain-glossary/blob/main/terms/public-entry-point.md) and [umbrella identity](https://github.com/hainworldhq/hain-glossary/blob/main/terms/umbrella-identity.md). It provides the visible surface through which the broader framework can be introduced without forcing external audiences to begin at the architecture layer.
 
 This is important because the public layer should orient before it explains.
 
@@ -71,7 +71,7 @@ That is the role of a public entry point.
 
 If HAIN World introduces, HAINOA explains.
 
-HAINOA functions as the open architecture layer of the HAIN framework. Its role in public structure is to provide depth without replacing the public-facing identity.
+HAINOA functions as the [open architecture layer](https://github.com/hainworldhq/hain-glossary/blob/main/terms/open-architecture-layer.md) of the HAIN framework. Its role in public structure is to provide depth without replacing the public-facing identity.
 
 This distinction matters. A framework often becomes harder to understand when its architecture layer is mistaken for its umbrella identity. When that happens, the entire system starts to look more technical, narrower, and less navigable than it should.
 
@@ -81,7 +81,7 @@ Its role is not to be the first thing every reader sees. Its role is to become t
 
 ## The role of HAINIZE
 
-HAINIZE represents the toolkit and developer-oriented direction.
+HAINIZE represents the [toolkit direction](https://github.com/hainworldhq/hain-glossary/blob/main/terms/toolkit-direction.md) and developer-oriented practical layer.
 
 Its role in public structure is more future-facing. It points toward practical assets, starter materials, and reusable framework supports. But it should not be forced too early into the public foreground.
 
@@ -93,13 +93,13 @@ Its role should therefore remain visible, but appropriately scaled.
 
 ## Public structure as role separation
 
-One of the most important ideas in HAIN is that public structure should preserve role separation.
+One of the most important ideas in HAIN is that public structure should preserve [role separation](https://github.com/hainworldhq/hain-glossary/blob/main/terms/structural-clarity.md).
 
 This means:
 
 - the public layer should introduce
-- the architecture layer should interpret
-- the toolkit layer should point toward application
+- the architecture layer should explain and interpret
+- the practical layer should point toward application
 
 These roles should reinforce one another, not compete.
 
@@ -179,4 +179,4 @@ Narrative and public structure are the conditions that make a framework understa
 
 In HAIN, narrative provides the structured story of what the framework is, why it exists, and how its parts relate. Public structure provides the visible arrangement of domains, sites, repositories, and entry points through which that story is encountered.
 
-If HAIN World is the public entry point, HAINOA the architecture core, and HAINIZE the toolkit direction, then narrative and public structure are what keep those layers coherent across the public system.
+If HAIN World is the public entry point, HAINOA the architecture core, and HAINIZE the practical direction, then narrative and public structure are what keep those layers coherent across the public system.

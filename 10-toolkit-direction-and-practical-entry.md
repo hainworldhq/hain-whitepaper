@@ -4,7 +4,7 @@
 
 A framework becomes more complete when it can point toward practical use without pretending to be more productized than it really is.
 
-This is the role of toolkit direction within HAIN.
+This is the role of [toolkit direction](https://github.com/hainworldhq/hain-glossary/blob/main/terms/toolkit-direction.md) within HAIN.
 
 The HAIN framework is not only concerned with public identity and architecture logic. It also needs a practical orientation: a way of describing how reusable assets, starter materials, and implementation-facing supports might emerge over time. That practical orientation does not need to begin as a full platform. It can begin as a direction.
 
@@ -26,7 +26,7 @@ In this sense, practical entry is not the same as full execution. It is the firs
 
 This is why HAINIZE exists within the HAIN framework.
 
-If HAIN World introduces and HAINOA explains, HAINIZE points toward application.
+If HAIN World introduces and HAINOA explains, HAINIZE points toward practical entry.
 
 Its role is not to function as a mature software platform today. Its role is to establish a practical layer where the framework may eventually produce:
 
@@ -77,7 +77,7 @@ More assets do not automatically make a framework more useful. If a toolkit dire
 
 For HAIN, this would be a mistake.
 
-Toolkit direction should remain narrow enough to stay aligned with the framework’s conceptual structure. That means practical materials should emerge only where they improve clarity, usability, or application in a disciplined way.
+Toolkit direction should remain narrow enough to stay aligned with the framework’s [conceptual structure](https://github.com/hainworldhq/hain-glossary/blob/main/terms/conceptual-structure.md). That means practical materials should emerge only where they improve clarity, usability, or application in a disciplined way.
 
 It is better to have a few clear entry materials than a large but weak collection of loosely related outputs.
 

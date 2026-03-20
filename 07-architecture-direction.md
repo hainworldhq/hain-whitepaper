@@ -8,13 +8,13 @@ Structure explains how the framework is organized. Direction explains how the fr
 
 This distinction matters because a framework can remain too static if it only defines layers without describing how those layers behave, interact, and evolve. Architecture direction helps prevent that problem. It gives the framework a way to interpret the larger movement of AI-native systems without collapsing into product prediction or technical overcommitment.
 
-Within HAIN, architecture direction should be understood as the directional reading of a changing system environment. It is not a final implementation map. It is a way of understanding where architectural emphasis is shifting and why those shifts matter.
+Within HAIN, architecture direction should be understood as the directional reading of a changing [system landscape](https://github.com/hainworldhq/hain-glossary/blob/main/terms/system-landscape.md). It is not a final implementation map. It is a way of understanding where architectural emphasis is shifting and why those shifts matter.
 
 ## Why direction matters
 
 A framework that defines concepts but not direction can become descriptive without becoming useful.
 
-It may explain what exists, but fail to clarify how the system should be interpreted as conditions change. This becomes especially important in a landscape where intelligent systems are no longer confined to one execution model, one infrastructure center, or one interaction pattern.
+It may explain what exists, but fail to clarify how the system should be interpreted as conditions change. This becomes especially important in a landscape where intelligent systems are no longer confined to one [execution environment](https://github.com/hainworldhq/hain-glossary/blob/main/terms/execution-environment.md), one infrastructure center, or one interaction pattern.
 
 In the HAIN context, direction matters for three reasons.
 
@@ -22,7 +22,7 @@ First, it helps distinguish enduring architectural tendencies from temporary imp
 
 Second, it helps connect structure with relevance. A framework becomes more useful when it can say not only what its layers are, but why those layers matter now.
 
-Third, it provides a bridge between architecture and future practical assets. If HAIN World introduces, HAINOA explains, and HAINIZE points toward application, architecture direction helps connect explanation to future practical interpretation.
+Third, it provides a bridge between architecture and future practical assets. If HAIN World introduces, HAINOA explains, and HAINIZE points toward practical entry, architecture direction helps connect explanation to future practical interpretation.
 
 ## Direction is not implementation
 
@@ -46,9 +46,9 @@ These are not product categories. They are directional architectural lenses.
 
 ## Cloud as coordination direction
 
-Cloud remains one of the strongest architectural anchors in the modern intelligent system landscape.
+[Cloud](https://github.com/hainworldhq/hain-glossary/blob/main/terms/cloud.md) remains one of the strongest architectural anchors in the modern intelligent system landscape.
 
-Its importance does not come merely from centralization or scale in the abstract. It comes from its continuing role as the coordination layer of complex systems. Shared model access, centralized orchestration, large-scale data operations, integration surfaces, and common control logic are all more naturally expressed through cloud environments.
+Its importance does not come merely from centralization or scale in the abstract. It comes from its continuing role as the coordination layer of complex systems. Shared model access, centralized [orchestration](https://github.com/hainworldhq/hain-glossary/blob/main/terms/orchestration.md), large-scale data operations, integration surfaces, and common control logic are all more naturally expressed through cloud environments.
 
 Within HAIN, the architectural direction of cloud is not simply “run AI in the cloud.” It is better described as coordination.
 
@@ -64,11 +64,11 @@ Cloud therefore remains foundational, but not total. In a Hybrid AI Native frami
 
 ## Edge as locality direction
 
-If cloud expresses coordination, edge expresses locality.
+If cloud expresses coordination, [edge](https://github.com/hainworldhq/hain-glossary/blob/main/terms/edge.md) expresses locality.
 
 Edge becomes architecturally important when execution needs to move closer to the point of use. This may happen because of latency constraints, privacy requirements, resilience needs, cost realities, bandwidth limitations, or environment-specific performance conditions.
 
-Within HAIN, the architectural direction of edge is not simply “smaller compute outside the cloud.” It is better described as locality.
+Within HAIN, the architectural direction of edge is not simply “smaller compute outside the cloud.” It is better described as [locality](https://github.com/hainworldhq/hain-glossary/blob/main/terms/locality.md).
 
 Locality here means that where intelligence operates is increasingly part of the architecture itself. Execution is no longer only a matter of capacity. It is also a matter of situational fit.
 
@@ -76,7 +76,7 @@ This makes edge important not as an optimization side note, but as a directional
 
 ## Agentic systems as process direction
 
-If cloud expresses coordination and edge expresses locality, agentic systems express process.
+If cloud expresses coordination and edge expresses locality, [agentic systems](https://github.com/hainworldhq/hain-glossary/blob/main/terms/agentic-systems.md) express process.
 
 This direction matters because modern intelligent systems are increasingly expected to do more than respond. They are expected to coordinate tools, manage multi-step workflows, maintain context, use memory, and act across changing conditions.
 
@@ -90,7 +90,7 @@ This is why agentic systems are not treated as a side topic in HAIN. They introd
 
 Cloud, edge, and agentic systems should not be understood as three isolated directional themes.
 
-They belong together because the modern system landscape increasingly requires all three kinds of architectural reasoning at once. A system may coordinate through cloud infrastructure, execute selectively at the edge, and operate through agentic workflows that span tools, memory, and multi-step behavior.
+They belong together because the modern system landscape increasingly requires all three kinds of architectural reasoning at once. A system may coordinate through cloud infrastructure, execute selectively at the edge, and operate through [agentic workflows](https://github.com/hainworldhq/hain-glossary/blob/main/terms/agentic-workflow.md) that span tools, memory, and multi-step behavior.
 
 This is exactly why HAIN uses a hybrid framing.
 
@@ -112,7 +112,7 @@ It shapes how systems are described, how architecture is partitioned, how constr
 
 This chapter is closely related to HAINOA, but it is not identical to HAINOA.
 
-HAINOA functions as the open architecture layer of the HAIN framework. It provides the structural core through which the framework becomes explicit and interpretable.
+HAINOA functions as the [open architecture layer](https://github.com/hainworldhq/hain-glossary/blob/main/terms/open-architecture-layer.md) of the HAIN framework. It provides the [architecture core](https://github.com/hainworldhq/hain-glossary/blob/main/terms/architecture-core.md) through which the framework becomes explicit and interpretable.
 
 Architecture direction sits within that logic as one kind of architectural interpretation. It helps explain not only how the framework is structured, but what kinds of architectural movement the framework is designed to describe.
 

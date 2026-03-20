@@ -12,9 +12,9 @@ This structure is useful because it separates identity, architecture, repositori
 
 **https://hainworld.com**
 
-The main site is the primary public-facing entry point of the framework.
+The main site is the primary [public entry point](https://github.com/hainworldhq/hain-glossary/blob/main/terms/public-entry-point.md) of the framework.
 
-Its role is to introduce HAIN World as the umbrella identity for the Hybrid AI Native concept. It is the most natural place for first contact, top-level explanation, and outward-facing presentation.
+Its role is to introduce HAIN World as the [umbrella identity](https://github.com/hainworldhq/hain-glossary/blob/main/terms/umbrella-identity.md) for the Hybrid AI Native concept. It is the most natural place for first contact, top-level explanation, and outward-facing presentation.
 
 The main site should remain the clearest and most stable public surface in the system.
 
@@ -32,9 +32,9 @@ In practice, it functions as a compact public alias for the broader framework id
 
 **https://hainoa.org**
 
-The architecture site is the theory and structure-oriented entry point.
+The architecture site is the theory- and structure-oriented entry point.
 
-Its role is to present HAINOA as the open architecture layer within the HAIN framework. Compared with the main site, it is more focused on principles, conceptual structure, and architectural interpretation.
+Its role is to present HAINOA as the [open architecture layer](https://github.com/hainworldhq/hain-glossary/blob/main/terms/open-architecture-layer.md) within the HAIN framework. Compared with the main site, it is more focused on principles, conceptual structure, and architectural interpretation.
 
 If HAIN World introduces the framework, HAINOA explains its structural logic.
 
