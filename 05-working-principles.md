@@ -2,7 +2,7 @@
 
 ## Overview
 
-A framework becomes more usable when its structure is supported by explicit principles.
+A [framework](https://github.com/hainworldhq/hain-glossary/blob/main/terms/framework.md) becomes more usable when its [conceptual structure](https://github.com/hainworldhq/hain-glossary/blob/main/terms/conceptual-structure.md) is supported by explicit [principles](https://github.com/hainworldhq/hain-glossary/blob/main/terms/principles.md).
 
 Without principles, a framework may still have names, layers, and public surfaces, but it will often lack internal discipline. Its language may drift, its structure may become inconsistent, and its future extensions may lose coherence.
 
@@ -12,7 +12,7 @@ These principles do not attempt to define a universal doctrine for all intellige
 
 ## Why principles matter
 
-HAIn is not intended to function only as a naming exercise or a conceptual slogan. It is intended to provide a structured way of thinking about AI systems that now operate across cloud, edge, and agentic contexts.
+HAIN is not intended to function only as a naming exercise or a conceptual slogan. It is intended to provide a structured way of thinking about AI systems that now operate across cloud, edge, and agentic contexts.
 
 That kind of structure needs a stable internal basis.
 
@@ -29,7 +29,7 @@ In this sense, principles help maintain the identity of the framework even befor
 
 The first principle of HAIN is that modern intelligent systems should be understood as hybrid by default.
 
-This does not mean that every system must distribute intelligence across every possible environment. It means that a framework designed for current AI-native systems should not assume a single execution model as the norm.
+This does not mean that every system must distribute intelligence across every possible environment. It means that a framework designed for current AI-native systems should not assume a single [execution environment](https://github.com/hainworldhq/hain-glossary/blob/main/terms/execution-environment.md) as the norm.
 
 A cloud-only view is no longer sufficient as a default explanation. Systems increasingly depend on distributed coordination, localized execution, environment-specific constraints, and layered workflows that operate across more than one context.
 
@@ -41,7 +41,7 @@ A second principle is that structure should come before expansion.
 
 It is easy for a framework to grow outward through new names, new subdomains, new themes, and new directions. But expansion without structural discipline weakens rather than strengthens a system.
 
-In HAIN, growth is useful only when it preserves or improves legibility.
+In HAIN, growth is useful only when it preserves or improves [structural clarity](https://github.com/hainworldhq/hain-glossary/blob/main/terms/structural-clarity.md).
 
 This means new domains, concepts, repositories, or terminology should be evaluated not by how interesting they sound, but by whether they strengthen the clarity of the framework. If they introduce ambiguity, redundancy, or fragmentation, they should remain inactive until their role becomes clearer.
 
@@ -49,7 +49,7 @@ This principle is especially important because HAIN already has enough surface a
 
 ## Principle 3: Public identity and architecture should remain distinct
 
-A framework benefits from separating its public-facing identity from its architecture core.
+A framework benefits from separating its [public-facing identity](https://github.com/hainworldhq/hain-glossary/blob/main/terms/public-facing-identity.md) from its [architecture core](https://github.com/hainworldhq/hain-glossary/blob/main/terms/architecture-core.md).
 
 That is one of the reasons HAIN is structured around HAIN World, HAINOA, and HAINIZE rather than collapsing everything into one label.
 
@@ -61,7 +61,7 @@ Keeping these roles distinct is not a matter of branding style alone. It is a pr
 
 ## Principle 4: Architecture should remain open enough to evolve
 
-HAINOA is framed as an open architecture layer for a reason.
+HAINOA is framed as an [open architecture layer](https://github.com/hainworldhq/hain-glossary/blob/main/terms/open-architecture-layer.md) for a reason.
 
 The HAIN framework is still early. It would be a mistake to force it prematurely into a rigid implementation, a closed product story, or a narrow standardization claim. At the same time, it would be equally unhelpful to leave it completely undefined.
 
@@ -77,7 +77,7 @@ A framework is not only built out of diagrams, layers, and system roles. It is a
 
 In HAIN, terminology is not secondary. The glossary, the whitepaper, the websites, and the repository structure are all part of the same explanatory system.
 
-This is why the framework gives attention to terms such as public-facing identity, umbrella identity, architecture core, toolkit direction, execution environment, and system landscape. These are not abstract language preferences. They are part of the infrastructure of understanding.
+This is why the framework gives attention to terms such as [public-facing identity](https://github.com/hainworldhq/hain-glossary/blob/main/terms/public-facing-identity.md), [umbrella identity](https://github.com/hainworldhq/hain-glossary/blob/main/terms/umbrella-identity.md), architecture core, [toolkit direction](https://github.com/hainworldhq/hain-glossary/blob/main/terms/toolkit-direction.md), execution environment, and [system landscape](https://github.com/hainworldhq/hain-glossary/blob/main/terms/system-landscape.md). These are not abstract language preferences. They are part of the infrastructure of understanding.
 
 If the language becomes inconsistent, the framework will eventually become inconsistent as well.
 
