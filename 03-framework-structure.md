@@ -8,7 +8,7 @@ The current HAIN framework is organized around three core layers:
 - [**HAINOA**](https://github.com/hainworldhq/hain-glossary/blob/main/terms/hainoa.md)
 - [**HAINIZE**](https://github.com/hainworldhq/hain-glossary/blob/main/terms/hainize.md)
 
-This structure is intentionally simple. Its purpose is not to create unnecessary hierarchy, but to separate three different roles that are often blended together in early-stage frameworks: public identity, architectural structure, and implementation-oriented entry.
+This structure is intentionally simple. Its purpose is not to create unnecessary hierarchy, but to separate three different roles that are often blended together in early-stage frameworks: public identity, architecture, and practical entry.
 
 ## Why structure matters
 
@@ -37,7 +37,7 @@ A framework benefits from having a stable public identity that can hold together
 - top-level positioning
 
 ### In one line
-**HAIN World is the umbrella identity that makes the framework visible and accessible.**
+**HAIN World introduces the framework through a stable public-facing surface.**
 
 ## Layer 2: HAINOA
 
@@ -58,7 +58,7 @@ A public-facing concept needs a deeper layer where its internal logic becomes mo
 - terminology clarification
 
 ### In one line
-**HAINOA is the architecture core that makes the framework explicit and interpretable.**
+**HAINOA explains the framework through a clearer architectural core.**
 
 ## Layer 3: HAINIZE
 
@@ -79,7 +79,7 @@ A framework becomes more useful when it can move from concept to usable artifact
 - reusable documentation patterns
 
 ### In one line
-**HAINIZE is the practical entry layer that points from concept toward implementation.**
+**HAINIZE enables practical entry through templates, starter assets, and toolkit direction.**
 
 ## Relationship between the three layers
 
@@ -147,4 +147,4 @@ The HAIN framework is currently structured around three layers:
 - **HAINOA** — architecture core
 - **HAINIZE** — toolkit and developer entry
 
-This structure helps separate identity, architecture, and implementation direction, making the framework easier to explain, navigate, and extend.
+This structure helps separate identity, architecture, and practical direction, making the framework easier to explain, navigate, and extend.
