@@ -2,9 +2,7 @@
 
 Version: v0.1  
 
-This repository represents the v0.1 core draft of the HAIN narrative system.
-
-A structured documentation repository for the **Hybrid AI Native** framework.
+This repository represents the v0.1 core draft of the **Hybrid AI Native** framework.
 
 This repository contains the first organized narrative and reference materials for HAIN, including concept definition, framework structure, public entry points, working principles, system landscape interpretation, architectural direction, narrative logic, terminology discipline, and practical entry direction.
 
