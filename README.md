@@ -1,8 +1,11 @@
 # HAIN Whitepaper
 
+Version: v0.1  
+Status: Active working draft
+
 A structured documentation repository for the **Hybrid AI Native** framework.
 
-This repository contains the first organized narrative and reference materials for HAIN, including concept definition, framework structure, public entry points, working principles, system landscape interpretation, and future whitepaper expansion.
+This repository contains the first organized narrative and reference materials for HAIN, including concept definition, framework structure, public entry points, working principles, system landscape interpretation, architectural direction, narrative logic, terminology discipline, and practical entry direction.
 
 ---
 
@@ -61,6 +64,10 @@ Its purpose is to capture:
 - public entry points
 - working principles
 - system landscape interpretation
+- architecture direction
+- narrative and public structure
+- terminology and interpretation
+- toolkit direction and practical entry
 - future narrative expansion
 
 At the current stage, this repository is not intended to present HAIN as a fully commercialized platform. It is intended to provide a clear and stable public-facing framework narrative.
@@ -78,8 +85,12 @@ If you are new to HAIN, read in this order:
 5. [`04-public-entry-points.md`](./04-public-entry-points.md)
 6. [`05-working-principles.md`](./05-working-principles.md)
 7. [`06-system-landscape.md`](./06-system-landscape.md)
+8. [`07-architecture-direction.md`](./07-architecture-direction.md)
+9. [`08-narrative-and-public-structure.md`](./08-narrative-and-public-structure.md)
+10. [`09-terminology-and-interpretation.md`](./09-terminology-and-interpretation.md)
+11. [`10-toolkit-direction-and-practical-entry.md`](./10-toolkit-direction-and-practical-entry.md)
 
-This sequence moves from high-level identity and concept framing into structure, public surfaces, principles, and finally the broader environment that the framework is meant to describe.
+This sequence moves from identity and concept framing into structure, public surfaces, principles, system landscape, architecture direction, public explanation, terminology discipline, and finally practical entry.
 
 ---
 
@@ -93,6 +104,10 @@ This sequence moves from high-level identity and concept framing into structure,
 - [`04-public-entry-points.md`](./04-public-entry-points.md) — websites, repositories, social presence, and contact layer
 - [`05-working-principles.md`](./05-working-principles.md) — the internal interpretive rules of the framework
 - [`06-system-landscape.md`](./06-system-landscape.md) — cloud, edge, and agentic systems as one connected environment
+- [`07-architecture-direction.md`](./07-architecture-direction.md) — cloud, edge, and agentic systems as directional architectural anchors
+- [`08-narrative-and-public-structure.md`](./08-narrative-and-public-structure.md) — how the framework becomes legible across public surfaces
+- [`09-terminology-and-interpretation.md`](./09-terminology-and-interpretation.md) — why language discipline is part of the framework’s explanatory infrastructure
+- [`10-toolkit-direction-and-practical-entry.md`](./10-toolkit-direction-and-practical-entry.md) — how the framework points toward practical use without premature productization
 
 ### Supporting assets
 - `assets/` — future diagrams, exports, and supporting visuals
@@ -119,6 +134,7 @@ Use the HAIN Glossary alongside this repository to clarify terms such as:
 - system landscape
 - structural clarity
 - framework narrative
+- toolkit direction
 
 ---
 
@@ -134,7 +150,6 @@ Use the HAIN Glossary alongside this repository to clarify terms such as:
 ---
 
 ## Current status
-Version: v0.1
 
 This repository now represents an **early structured v0.1 draft** of the HAIN narrative.
 
@@ -145,6 +160,9 @@ The current focus is on:
 - organizing terminology and interpretation
 - defining working principles
 - describing the system landscape HAIN is intended to explain
+- introducing architecture direction
+- strengthening narrative and public structure
+- creating a disciplined bridge toward practical entry
 
 ---
 
@@ -155,4 +173,4 @@ The current focus is on:
 **HAINOA** is its open architecture layer.  
 **HAINIZE** is its toolkit and developer-oriented direction.
 
-This repository is the first organized whitepaper base for that system, now extended with working principles and system landscape interpretation.
+This repository is the first organized whitepaper base for that system, now extended with working principles, system landscape interpretation, architecture direction, terminology discipline, and practical entry logic.
