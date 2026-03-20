@@ -1,7 +1,8 @@
 # HAIN Whitepaper
 
 Version: v0.1  
-Status: Active working draft
+
+This repository represents the v0.1 core draft of the HAIN narrative system.
 
 A structured documentation repository for the **Hybrid AI Native** framework.
 
@@ -135,6 +136,8 @@ Use the HAIN Glossary alongside this repository to clarify terms such as:
 - structural clarity
 - framework narrative
 - toolkit direction
+
+Glossary repository: [hain-glossary](https://github.com/hainworldhq/hain-glossary)
 
 ---
 
