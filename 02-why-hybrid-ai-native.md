@@ -2,7 +2,7 @@
 
 ## Overview
 
-The idea of Hybrid AI Native emerges from a simple observation: AI systems are no longer shaped by a single deployment model, a single runtime environment, or a single interaction pattern.
+The idea of [Hybrid AI Native](https://github.com/hainworldhq/hain-glossary/blob/main/terms/hybrid-ai-native.md) emerges from a simple observation: AI systems are no longer shaped by a single deployment model, a single runtime environment, or a single interaction pattern.
 
 What was once discussed mainly through the lens of centralized cloud intelligence is now expanding across edge execution, local constraints, and agentic workflows. As this shift continues, the language used to describe AI systems also needs to become more precise.
 
@@ -16,9 +16,9 @@ That assumption made sense when model access, orchestration, storage, and applic
 
 That picture is no longer complete.
 
-Today, AI systems increasingly operate across multiple environments. Some capabilities remain cloud-native because they depend on shared scale, centralized coordination, or access to large model infrastructure. Other capabilities move closer to the user, the device, or the local environment because latency, privacy, resilience, or deployment realism make local execution more appropriate.
+Today, AI systems increasingly operate across multiple [execution environments](https://github.com/hainworldhq/hain-glossary/blob/main/terms/execution-environment.md). Some capabilities remain cloud-native because they depend on shared scale, centralized coordination, or access to large model infrastructure. Other capabilities move closer to the user, the device, or the local environment because latency, privacy, resilience, or deployment realism make local execution more appropriate.
 
-At the same time, a third dimension has become more visible: agentic systems. Software is no longer only expected to respond to direct prompts. It is increasingly expected to coordinate tools, manage multi-step workflows, store context, and act across changing execution environments.
+At the same time, a third dimension has become more visible: [agentic workflows](https://github.com/hainworldhq/hain-glossary/blob/main/terms/agentic-workflow.md). Software is no longer only expected to respond to direct prompts. It is increasingly expected to coordinate tools, manage multi-step workflows, store context, and act across changing execution environments.
 
 A cloud-only framing cannot fully describe this reality.
 
@@ -30,9 +30,9 @@ Hybrid does not simply mean "part cloud, part local" in a narrow infrastructure 
 
 This includes at least three recurring dimensions:
 
-- centralized cloud coordination
-- localized edge execution
-- agentic workflows that span tools, state, and environments
+- centralized [cloud](https://github.com/hainworldhq/hain-glossary/blob/main/terms/cloud.md) coordination
+- localized [edge](https://github.com/hainworldhq/hain-glossary/blob/main/terms/edge.md) execution
+- [agentic systems](https://github.com/hainworldhq/hain-glossary/blob/main/terms/agentic-systems.md) that span tools, state, and environments
 
 A hybrid system is not defined by a single place where intelligence lives. It is defined by how intelligence is distributed, coordinated, and constrained across contexts.
 
@@ -50,21 +50,21 @@ That is why "AI Native" is a more accurate framing than simply "AI-enabled."
 
 ## Cloud, edge, and agentic systems as one connected landscape
 
-A major reason the HAIN concept exists is to provide a way of thinking about cloud, edge, and agentic systems as connected rather than isolated.
+A major reason the HAIN concept exists is to provide a way of thinking about cloud, edge, and agentic systems as one connected [system landscape](https://github.com/hainworldhq/hain-glossary/blob/main/terms/system-landscape.md).
 
 ### Cloud
 
-Cloud remains essential for scale, shared intelligence, centralized orchestration, and integration across large systems. It continues to provide the coordination layer for many AI workloads.
+Cloud remains essential for scale, shared intelligence, centralized [orchestration](https://github.com/hainworldhq/hain-glossary/blob/main/terms/orchestration.md), and integration across large systems. It continues to provide the coordination layer for many AI workloads.
 
 ### Edge
 
-Edge matters because not every useful AI function belongs in the cloud. Local execution becomes increasingly relevant when systems must account for latency, privacy, bandwidth constraints, resilience, or environment-specific performance conditions.
+Edge matters because not every useful AI function belongs in the cloud. Local execution becomes increasingly relevant when systems must account for latency, privacy, bandwidth constraints, resilience, [locality](https://github.com/hainworldhq/hain-glossary/blob/main/terms/locality.md), or environment-specific performance conditions.
 
 ### Agentic systems
 
-Agentic systems matter because the role of software is changing. Intelligent software is increasingly expected to operate through tool use, workflow orchestration, memory, coordination, and delegated task execution. This introduces a different kind of complexity that does not fit neatly into older client-server or API-only views.
+Agentic systems matter because the role of software is changing. Intelligent software is increasingly expected to operate through tool use, workflow coordination, memory, delegation, and decision flows across distributed execution contexts.
 
-These three dimensions should not be understood as separate topics. They are increasingly parts of one system landscape.
+These three dimensions should not be understood as separate topics. They are increasingly parts of one connected system landscape.
 
 That landscape needs better language.
 
@@ -74,7 +74,7 @@ The absence of good structure usually produces one of two problems.
 
 In some cases, everything gets flattened into generic AI language. Terms become vague, fashionable, or overly broad. This makes it hard to explain why one architectural choice differs from another, or why one system has different constraints from another.
 
-In other cases, language becomes too fragmented. Cloud, edge, agents, architecture, tooling, and product positioning are discussed as disconnected categories. This makes it difficult to maintain a coherent public narrative.
+In other cases, language becomes too fragmented. Cloud, edge, agents, architecture, tooling, and product positioning are discussed as disconnected categories. This makes it difficult to maintain a coherent public explanation.
 
 Hybrid AI Native is meant to address both problems.
 
@@ -94,7 +94,7 @@ The purpose of HAIN is not to claim a universal standard or to force all AI syst
 
 Its purpose is more modest and more practical.
 
-HAIn exists to provide:
+HAIN exists to provide:
 
 - a clearer public frame
 - a cleaner architectural vocabulary
