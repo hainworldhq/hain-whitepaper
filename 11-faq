@@ -1,0 +1,130 @@
+# FAQ
+
+## What is HAIN?
+
+HAIN stands for **Hybrid AI Native**.
+
+It is a framework for understanding how modern intelligent systems are evolving across cloud coordination, edge execution, and agentic workflows. Rather than treating these as isolated topics, HAIN describes them as part of one connected system landscape that requires clearer public structure, cleaner architectural language, and more disciplined terminology.
+
+At its current stage, HAIN is not presented as a finished commercial platform. It is presented as a structured framework system.
+
+---
+
+## What is HAIN World?
+
+HAIN World is the **public-facing identity** of the HAIN framework.
+
+Its role is to introduce the framework through public websites, repositories, documentation, and outward-facing narrative materials. It is the main entry point for people who are new to HAIN.
+
+In simple terms, HAIN World is the public surface through which the broader framework becomes visible and understandable.
+
+---
+
+## What is HAINOA?
+
+HAINOA is the **open architecture layer** of the HAIN framework.
+
+Its role is to explain the internal structure, principles, and interpretive logic of the system. If HAIN World introduces the framework, HAINOA explains it more deeply.
+
+HAINOA is not the public umbrella of the framework. It is the architecture-facing layer beneath that umbrella.
+
+---
+
+## What is HAINIZE?
+
+HAINIZE is the **toolkit and practical-entry direction** within the HAIN framework.
+
+It points toward future starter assets, reusable templates, documentation supports, and other implementation-facing materials. It does not imply that HAIN is already a mature software platform.
+
+Its purpose is to create a disciplined bridge from explanation toward practical use.
+
+---
+
+## Why Hybrid AI Native?
+
+The phrase **Hybrid AI Native** is used because a cloud-only view is no longer enough to describe modern intelligent systems.
+
+Some capabilities still depend on centralized cloud coordination. Others need to run closer to the point of use because of latency, privacy, resilience, or deployment realism. At the same time, intelligent systems are increasingly expected to operate through tools, workflows, memory, and multi-step process behavior.
+
+The term Hybrid AI Native is meant to describe that shift more clearly.
+
+---
+
+## Is HAIN a product?
+
+Not in its current form.
+
+HAIN is currently a **framework**, not a finished product platform. It is being built as a structured public system that includes websites, whitepaper chapters, glossary terms, and architecture-facing materials.
+
+Over time, parts of the framework may support practical assets, reusable kits, workshops, or other forms of application. But the current purpose of HAIN is to establish a clear conceptual and architectural system first.
+
+---
+
+## What is the relationship between cloud, edge, and agentic systems?
+
+Within HAIN, cloud, edge, and agentic systems are treated as parts of one connected system landscape.
+
+- **Cloud** is best understood as the coordination layer.
+- **Edge** is best understood as the locality layer.
+- **Agentic systems** are best understood as the process layer.
+
+These are not three isolated themes. Modern intelligent systems increasingly combine all three, which is why HAIN uses a hybrid framing rather than a single-layer one.
+
+---
+
+## What is the relationship between HAIN World, HAINOA, and HAINIZE?
+
+The HAIN system is currently organized through three layers:
+
+- **HAIN World** — public entry point
+- **HAINOA** — architecture core
+- **HAINIZE** — toolkit and practical-entry direction
+
+In simple terms:
+
+- **HAIN World introduces**
+- **HAINOA explains**
+- **HAINIZE enables practical entry**
+
+This separation is important because it prevents the public layer, the architecture layer, and the practical layer from collapsing into one unclear system.
+
+---
+
+## Where should I start?
+
+If you are new to HAIN, start with these public entry points:
+
+- Main site: [hainworld.com](https://hainworld.com)
+- Architecture site: [hainoa.org](https://hainoa.org)
+- GitHub organization: [github.com/hainworldhq](https://github.com/hainworldhq)
+
+If you want the structured reading path, begin with the whitepaper in this order:
+
+1. `00-overview.md`
+2. `01-what-is-hain-world.md`
+3. `02-why-hybrid-ai-native.md`
+4. `03-framework-structure.md`
+
+If you want terminology support while reading, use the HAIN Glossary alongside the whitepaper.
+
+---
+
+## What is the glossary for?
+
+The glossary is the **terminology layer** of the HAIN framework.
+
+Its purpose is to stabilize the language used across the websites, whitepaper, and repositories. It helps ensure that key terms such as public-facing identity, architecture core, execution environment, system landscape, and toolkit direction are used consistently.
+
+The glossary does not replace the whitepaper.  
+The whitepaper explains the framework in sequence.  
+The glossary keeps its language stable.
+
+---
+
+## What is HAIN trying to become?
+
+At the current stage, HAIN is trying to become a **clear, structured, and publicly legible framework** for explaining modern intelligent systems across cloud, edge, and agentic contexts.
+
+Its immediate goal is not maximum expansion. Its immediate goal is coherence.
+
+Over time, HAIN may support more focused practical directions, reusable assets, or other forms of structured application. But that growth should come from clarity, not from premature sprawl.
