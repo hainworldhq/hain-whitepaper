@@ -88,8 +88,10 @@ If you are new to HAIN, read in this order:
 9. [`08-narrative-and-public-structure.md`](./08-narrative-and-public-structure.md)
 10. [`09-terminology-and-interpretation.md`](./09-terminology-and-interpretation.md)
 11. [`10-toolkit-direction-and-practical-entry.md`](./10-toolkit-direction-and-practical-entry.md)
+12. [`11-faq.md`](./11-faq.md)
 
-This sequence moves from identity and concept framing into structure, public surfaces, principles, system landscape, architecture direction, public explanation, terminology discipline, and finally practical entry.
+This sequence moves from identity and concept framing into structure, public surfaces, principles, system landscape, architecture direction, public explanation, terminology discipline, practical entry, and finally a compact FAQ layer for faster external orientation.
+
 
 ---
 
@@ -107,6 +109,7 @@ This sequence moves from identity and concept framing into structure, public sur
 - [`08-narrative-and-public-structure.md`](./08-narrative-and-public-structure.md) — how the framework becomes legible across public surfaces
 - [`09-terminology-and-interpretation.md`](./09-terminology-and-interpretation.md) — why language discipline is part of the framework’s explanatory infrastructure
 - [`10-toolkit-direction-and-practical-entry.md`](./10-toolkit-direction-and-practical-entry.md) — how the framework points toward practical use without premature productization
+- [`11-faq.md`](./11-faq.md) — compact answers to the most common questions about HAIN, HAIN World, HAINOA, HAINIZE, and the Hybrid AI Native framing
 
 ### Supporting assets
 - `assets/` — future diagrams, exports, and supporting visuals
@@ -118,7 +121,8 @@ This sequence moves from identity and concept framing into structure, public sur
 The whitepaper and glossary serve different but connected roles.
 
 The whitepaper explains the framework in sequence.  
-The glossary keeps its vocabulary stable.
+The glossary keeps its vocabulary stable.  
+The FAQ provides a compressed public-facing explanation layer built from the whitepaper and glossary together.
 
 Use the HAIN Glossary alongside this repository to clarify terms such as:
 
